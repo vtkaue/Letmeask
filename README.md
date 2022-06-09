@@ -43,6 +43,18 @@ Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com
 
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
+## ✅ Etapas
+
+- Páginas iniciais e autenticação [✔]
+- Criando novas salas e novas perguntas [✔]
+- Estrutura das perguntas HTML e CSS [✔]
+- Remoção de pergunta sem o modal [✔]
+- Criação dos botões [✔]
+- Responsividade [ ]
+- implementar o modo dark [ ]
+- Adicione belas notificações ao seu aplicativo React com react-hot-toast [ ]
+
+
 
 ## 🔖 Layout
 
